@@ -109,6 +109,7 @@ I (..\SDK\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h)(0x61605446)
 I (..\SDK\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h)(0x61605446)
 I (..\SDK\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h)(0x61605446)
 I (..\SDK\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x61605446)
+I (..\Application\dev\water_sensor.h)(0x69B81344)
 F (..\Application\sensor\sensor_thread.c)(0x69186206)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I ..\Application -I ..\Application\sensor -I ..\Common\APL\apl_at -I ..\Common\APL\apl_rf -I ..\Common\APL\apl_rf\wifi -I ..\Common\APL\apl_rf\zxbee -I ..\Application\dev -I ..\Common\APL\apl_delay -I ..\Common\BSP\bsp_flash -I ..\Common\BSP\bsp_i2c -I ..\Common\BSP\bsp_uart -I ..\Common\DEV\dev_serial -I ..\Common\DEV\dev_uart -I ..\Common\DRV\drv_led -I ..\Common\DRV\drv_key -I ..\SDK\Config -I ..\SDK\CMSIS\CM3\CoreSupport -I ..\SDK\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I ..\SDK\STM32F10x_StdPeriph_Driver\inc -I ..\rt-thread\Port -I ..\rt-thread\libcpu -I ..\rt-thread\include -I ..\rt-thread\include\libc -I ..\rt-thread\components\drivers\include -I ..\rt-thread\components\drivers\include\drivers-IC:\Users\20995\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.1.0\Device\Include-D__UVISION_VERSION="534" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_MD -DUSE_RTT-o .\objects\sensor_thread.o --omf_browse .\objects\sensor_thread.crf --depend .\objects\sensor_thread.d)
 I (..\rt-thread\include\rtthread.h)(0x5DFB1FD2)
 I (..\rt-thread\Port\rtconfig.h)(0x6696334C)

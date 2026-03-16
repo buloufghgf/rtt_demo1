@@ -413,6 +413,16 @@
               <FileType>1</FileType>
               <FilePath>..\Application\dev\htu21d.c</FilePath>
             </File>
+            <File>
+              <FileName>dht11.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\Application\dev\dht11.c</FilePath>
+            </File>
+            <File>
+              <FileName>water_sensor.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\Application\dev\water_sensor.c</FilePath>
+            </File>
           </Files>
         </Group>
         <Group>
