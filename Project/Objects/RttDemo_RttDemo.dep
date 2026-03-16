@@ -1,6 +1,6 @@
 Dependencies for Project 'RttDemo', Target 'RttDemo': (DO NOT MODIFY !)
 CompilerVersion: 5060960::V5.06 update 7 (build 960)::.\ARMCC
-F (..\Application\main.c)(0x66963684)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I ..\Application -I ..\Application\sensor -I ..\Common\APL\apl_at -I ..\Common\APL\apl_rf -I ..\Common\APL\apl_rf\wifi -I ..\Common\APL\apl_rf\zxbee -I ..\Application\dev -I ..\Common\APL\apl_delay -I ..\Common\BSP\bsp_flash -I ..\Common\BSP\bsp_i2c -I ..\Common\BSP\bsp_uart -I ..\Common\DEV\dev_serial -I ..\Common\DEV\dev_uart -I ..\Common\DRV\drv_led -I ..\Common\DRV\drv_key -I ..\SDK\Config -I ..\SDK\CMSIS\CM3\CoreSupport -I ..\SDK\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I ..\SDK\STM32F10x_StdPeriph_Driver\inc -I ..\rt-thread\Port -I ..\rt-thread\libcpu -I ..\rt-thread\include -I ..\rt-thread\include\libc -I ..\rt-thread\components\drivers\include -I ..\rt-thread\components\drivers\include\drivers-IC:\Users\20995\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.1.0\Device\Include-D__UVISION_VERSION="534" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_MD -DUSE_RTT-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+F (..\Application\main.c)(0x69B80F92)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I ..\Application -I ..\Application\sensor -I ..\Common\APL\apl_at -I ..\Common\APL\apl_rf -I ..\Common\APL\apl_rf\wifi -I ..\Common\APL\apl_rf\zxbee -I ..\Application\dev -I ..\Common\APL\apl_delay -I ..\Common\BSP\bsp_flash -I ..\Common\BSP\bsp_i2c -I ..\Common\BSP\bsp_uart -I ..\Common\DEV\dev_serial -I ..\Common\DEV\dev_uart -I ..\Common\DRV\drv_led -I ..\Common\DRV\drv_key -I ..\SDK\Config -I ..\SDK\CMSIS\CM3\CoreSupport -I ..\SDK\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I ..\SDK\STM32F10x_StdPeriph_Driver\inc -I ..\rt-thread\Port -I ..\rt-thread\libcpu -I ..\rt-thread\include -I ..\rt-thread\include\libc -I ..\rt-thread\components\drivers\include -I ..\rt-thread\components\drivers\include\drivers-IC:\Users\20995\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.1.0\Device\Include-D__UVISION_VERSION="534" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_MD -DUSE_RTT-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
 I (..\rt-thread\include\rtthread.h)(0x5DFB1FD2)
 I (..\rt-thread\Port\rtconfig.h)(0x6696334C)
 I (..\rt-thread\include\rtdebug.h)(0x5DFB1FD2)
@@ -81,7 +81,7 @@ I (..\Common\APL\apl_rf\rf_if_app.h)(0x647D5002)
 I (..\Application\sensor\sensor_thread.h)(0x66962C86)
 I (..\Application\sensor\sensor.h)(0x69184CB8)
 I (..\Common\DRV\drv_key\key.h)(0x69187877)
-I (..\Application\dev\dht11.h)(0x69B808AE)
+I (..\Application\dev\dht11.h)(0x69B80F5B)
 I (..\SDK\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h)(0x61605446)
 I (..\SDK\CMSIS\CM3\CoreSupport\core_cm3.h)(0x61605446)
 I (..\SDK\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h)(0x61605446)

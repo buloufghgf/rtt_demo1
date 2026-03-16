@@ -56,12 +56,3 @@
 .\objects\sensor.o: ..\SDK\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h
 .\objects\sensor.o: ..\SDK\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h
 .\objects\sensor.o: ..\SDK\STM32F10x_StdPeriph_Driver\inc\misc.h
-.\objects\sensor.o: ..\Application\dev\dht11.h
-.\objects\sensor.o: ..\Application\dev\dht11.h
-.\objects\sensor.o: ..\Application\dev\dht11.h
-.\objects\sensor.o: ..\Application\dev\dht11.h
-.\objects\sensor.o: ..\Application\dev\dht11.h
-.\objects\sensor.o: ..\Application\dev\dht11.h
-.\objects\sensor.o: ..\Application\dev\dht11.h
-.\objects\sensor.o: ..\Application\dev\dht11.h
-.\objects\sensor.o: ..\Application\dev\dht11.h
